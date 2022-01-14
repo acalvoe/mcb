@@ -21,7 +21,22 @@
       <itunes:image href="https://static-2.ivoox.com/canales/5/9/8/2/1671607592895_XXL.jpg?ts=1607592970" />
       <itunes:explicit>no</itunes:explicit>
       <itunes:type>episodic</itunes:type>
-      <itunes:category text="Society &amp; Culture" />    
+      <itunes:category text="Society &amp; Culture" />
+      <item>
+         <title>
+         <![CDATA[ Teaser JUVENTUD: Bullying ]]>
+         </title>
+         <link>https://www.ivoox.com/teaser-juventud-bullying-audios-mp3_rf_80866305_1.html</link>
+         <enclosure url="https://www.ivoox.com/teaser-juventud-bullying_mf_80866305_feed_1.mp3" type="audio/mpeg" length="2004406"/>
+         <description>
+         <![CDATA[ Una muestra de lo que será nuestro próximo proyecto. "Juventud" es un retrato generacional en forma de serie documental sonora. Hemos entrevistado a jóvenes de entre 16 y 22 años, buscando voces diversas. Queríamos escuchar lo que piensa su generación. ]]>
+         </description>
+         <pubDate>Fri, 14 Jan 2022 13:11:35 +0100</pubDate>
+         <itunes:duration>04:10</itunes:duration>
+         <itunes:episodeType>full</itunes:episodeType>
+         <guid>https://www.ivoox.com/80866305</guid>
+         <itunes:image href="https://static-2.ivoox.com/audios/9/6/2/2/8521642162269_XXL.jpg"/>
+      </item>
       <item>
          <title>
          <![CDATA[ #09 Juventud (Intro) ]]>
